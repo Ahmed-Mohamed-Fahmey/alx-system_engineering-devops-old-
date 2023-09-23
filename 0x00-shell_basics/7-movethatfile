@@ -1,1 +1,2 @@
-#!/bin/bash
+#!/bin/bashc
+mv /tmp/betty /tmp/my_first_directory
